@@ -1,4 +1,7 @@
 # LuckyCode AI Assistant (Gemini Version)
+### 🔗 Live Demo  
+👉 **Try the app here:**  
+[https://huggingface.co/spaces/Laxman-Sannu/LuckyCode-Gemini-Assistant](https://huggingface.co/spaces/Laxman-Sannu/LuckyCode-Gemini-Assistant)
 
 LuckyCode is an AI-powered coding assistant built using **Google Gemini** and **Gradio**.  
 It helps with debugging, code generation, explanations, and learning programming concepts — all through a simple web interface.
